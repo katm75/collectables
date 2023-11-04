@@ -6,8 +6,8 @@
 # Excerise 5 from https://github.com/py-study-group/beginner-friendly-programming-exercises/blob/master/exercises.md
 #     Modified to change cryptocurrency to collectables
 
-# You are interested in buying crypto-currencies. 
-# You want to check the current amount of money you have and see how many coins you can buy in Bitcoin, Ethereum, and Litecoin.
+# You are interested in buying collectables. 
+# You want to check the current amount of money you have and see how many things you can buy in the categories of dolls, books and stamps.
 
 # Create a program that:
     # Reads the total amount of money you have
